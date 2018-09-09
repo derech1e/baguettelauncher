@@ -4,7 +4,7 @@
             "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.4.2760/forge-1.12.2-14.23.4.2760-universal.jar",
             "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.12.2_HD_U_E1.jar",
             "modpack": "http://download1487.mediafire.com/s4f4bpylchug/4d232513olkz8dv/Forces+of+Nature-+Avatar+%28FoN-A%29.zip",
-            "modpackHash": "82223cd96b57f450181de644ecf2e8c5",
+            "liquidBounceHash": "82223cd96b57f450181de644ecf2e8c5",
             "configFolder": "Forces of Nature- Avatar(FoN-A)"
         }
     }
