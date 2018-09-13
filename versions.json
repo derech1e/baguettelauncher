@@ -7,5 +7,12 @@
             "liquidBounceHash": "82223cd96b57f450181de644ecf2e8c5",
             "configFolder": "Forces of Nature- Avatar(FoN-A)"
         }
+        "b2": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.4.2760/forge-1.12.2-14.23.4.2760-universal.jar",
+            "optifine": "https://ccbluex.github.io/FileCloud/LiquidLauncher/OptiFine/OptiFine_1.12.2_HD_U_E1.jar",
+            "liquidBounce": "http://www.mediafire.com/file/7qqjs7guz43h1ee/Forces_of_Nature-_Avatar_%2528FoN-A%2529b2.zip/file",
+            "liquidBounceHash": "2ead92b79f4426db57f16d028447b7d1",
+            "configFolder": "Forces of Nature- Avatar(FoN-A)"
+        }
     }
 }
