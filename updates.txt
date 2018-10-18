@@ -1,11 +1,11 @@
 ;aiu;
 
 [Zrd]
-Name = Your Application
+Name = BaguetteLauncher
 ProductVersion = 2.41.0.0
 URL = http://www.example.com/downloads/BaguetteSetup.exe
 Size = 40557336
 MD5 = 3ea5366ce196fdf7d98db60b81053624
 ServerFileName = BaguetteSetup.exe
-RegistryKey = HKUD\Software\DieEchten                                                   \Your Application\Version
+RegistryKey = HKUD\Software\DieEchten\BaguetteLauncher\Version
 Version = 2.41.0.0
