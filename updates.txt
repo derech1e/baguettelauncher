@@ -1,0 +1,11 @@
+[General]
+Flags=PerMachine|ShowConfigOptionsButton
+URL=https://raw.githubusercontent.com/b0go5lash/baguettelauncher/master/updates.txt
+DefaultCommandLine=/checknow
+CheckFrequency=2
+DownloadsFolder=C:\ProgramData\DieEchten\BaguetteLauncher\updates\
+AppDir=C:\Program Files (x86)\DieEchten\BaguetteLauncher\
+ApplicationName=BaguetteLauncher
+ID={33C5352D-6209-494E-BC84-0BBCBA101A09}
+CompanyName=DieEchten
+ApplicationVersion=2.41
