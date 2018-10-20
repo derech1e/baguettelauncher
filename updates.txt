@@ -3,9 +3,9 @@
 [Zrd]
 Name = BaguetteLauncher
 ProductVersion = 2.42.0.0
-URL = http://www.example.com/downloads/BaguetteSetup.exe
-Size = 40557336
-MD5 = 3ea5366ce196fdf7d98db60b81053624
-ServerFileName = BaguetteSetup.exe
+URL = http://download2266.mediafire.com/9kxeabz1z00g/t7pojvg3oqebfau/BaguetteLauncher+2.42.exe
+Size = 39782824
+MD5 = 4474ab126df467e2ec9b533eda26c1bc
+ServerFileName = BaguetteLauncher 2.42.exe
 RegistryKey = HKUD\Software\DieEchten\BaguetteLauncher\Version
 Version = 2.42.0.0
