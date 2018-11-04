@@ -2,7 +2,7 @@
 $(document).ready(function() {
 $('.countdown').final_countdown({
 start: '1541332800',
-end: '1542542400',
+end: '1542538800',
 now: Math.round((new Date()).getTime() / 1000),
 selectors: {
     value_seconds: '.clock-seconds .val',
