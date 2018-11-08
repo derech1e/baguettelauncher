@@ -4,6 +4,7 @@
         "option_shaderPack": "https://www.dropbox.com/s/nxeunyw773udxy3/shaderpacks.zip?dl=1",
         "option_resourcePack": "https://www.dropbox.com/s/ikzi3jckw6x5g44/New%20Default%20Betapack%20V2.zip?dl=1",
         "versionsURL": "https://raw.githubusercontent.com/b0go5lash/baguettelauncher/master/versions/versions.json",
-        "latestVersion": "https://raw.githubusercontent.com/b0go5lash/baguettelauncher/master/versions/latestVersion.txt"
+        "latestVersion": "https://raw.githubusercontent.com/b0go5lash/baguettelauncher/master/versions/latestVersion.txt",
+        "userConfig": "https://www.dropbox.com/s/cn1zx4hfiywilnp/UserConfigv2.zip?dl=1"
     }
 }
