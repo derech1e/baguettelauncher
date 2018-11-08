@@ -1,9 +1,8 @@
 {
 "types": {
-        "optifine": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2769/forge-1.12.2-14.23.5.2769-universal.jar",
-        "option_shaderPack": "https://www.dropbox.com/s/vo2uhfyv551q68y/mods.zip?dl=1",
-        "option_resourcePack": "https://www.dropbox.com/s/92vlj0fsivtaogd/config.zip?dl=1",
-        "UserConfig": "14aabb071579f8a64e3b3958dfc4a1f4",
+        "optifine": "https://www.dropbox.com/s/bebrydzt419l1pw/OptiFine_1.12.2_HD_U_E2.jar?dl=1",
+        "option_shaderPack": "https://www.dropbox.com/s/nxeunyw773udxy3/shaderpacks.zip?dl=1",
+        "option_resourcePack": "https://www.dropbox.com/s/ww83qzejlclho2r/%C2%A7lDefault%203D%C2%A7r%20Low%20%20%20%20%20%20%20%C2%A7l17w23a.zip?dl=1",
         "versionsURL": "https://raw.githubusercontent.com/b0go5lash/baguettelauncher/master/versions/versions.json",
         "latestVersion": "https://raw.githubusercontent.com/b0go5lash/baguettelauncher/master/versions/latestVersion.txt"
     }
