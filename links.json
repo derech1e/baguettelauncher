@@ -1,11 +1,14 @@
 {
 "types": {
-        "optifine": "https://www.dropbox.com/s/bebrydzt419l1pw/OptiFine_1.12.2_HD_U_E2.jar?dl=1",
-        "option_shaderPack": "https://www.dropbox.com/s/nxeunyw773udxy3/shaderpacks.zip?dl=1",
-        "option_resourcePack": "https://www.dropbox.com/s/ikzi3jckw6x5g44/New%20Default%20Betapack%20V2.zip?dl=1",
+        "optifine": "https://www.dropbox.com/s/8904sfm2zr9t46u/OptiFine_1.12.2_HD_U_E2.jar?dl=1",
+        "option_shaderPack": "https://www.dropbox.com/s/rzxaiheip2cau4i/shaderpacks.zip?dl=1",
+        "option_resourcePack": "https://www.dropbox.com/s/g7gcbrapa72lcm3/MinecraftTextures.zip?dl=1",
+        "option_resourcePack_Baguette": "https://www.dropbox.com/s/oz85pufjzjy8oyl/BaguettePack.zip?dl=1",
         "versionsURL": "https://raw.githubusercontent.com/b0go5lash/baguettelauncher/master/versions/versions.json",
         "latestVersion": "https://raw.githubusercontent.com/b0go5lash/baguettelauncher/master/versions/latestVersion.txt",
         "userConfig": "https://www.dropbox.com/s/7c7iz62wdlw637a/UserConfigv2.zip?dl=1",
-        "baguetteMod": "https://www.dropbox.com/s/yrd9pa0d0yerejn/baguettemod-1.4.jar?dl=1"
+        "Config_NEI": "https://www.dropbox.com/s/iozntuivo5758sv/NEI_Config.zip?dl=1",
+        "Config_ItemScroller": "https://www.dropbox.com/s/edzeflodxy8hf8y/ItemScrollerConfig.zip?dl=1",
+        "Config_InvTweaks": "https://www.dropbox.com/s/e98ecsoz0rmia0y/InvTweaksConfig.zip?dl=1"
     }
 }
