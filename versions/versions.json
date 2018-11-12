@@ -3,7 +3,7 @@
         "b1": {
             "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2769/forge-1.12.2-14.23.5.2769-universal.jar",
             "modpack": "https://www.dropbox.com/s/bqawou9a033tlzr/ModpackMods.zip?dl=1",
-            "config": "https://www.dropbox.com/s/v5w1fqva7ege8n1/ModConfigs.zip?dl=1",
+            "config": "https://www.dropbox.com/s/985r2xgb21jyz9f/ModConfigs.zip?dl=1",
             "modPackHash": "8fa23391ec257e40cfee5cc57bb08b16",
             "configFolder": "config"
         }
