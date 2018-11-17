@@ -2,9 +2,9 @@
 "1.12.2": {
         "b1": {
             "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2769/forge-1.12.2-14.23.5.2769-universal.jar",
-            "modpack": "https://www.dropbox.com/s/y3qciwu2ujzglvt/ModpackMods.zip?dl=1",
+            "modpack": "https://www.dropbox.com/s/piths5uibvtg7e8/ModpackMods.zip?dl=1",
             "config": "https://www.dropbox.com/s/985r2xgb21jyz9f/ModConfigs.zip?dl=1",
-            "modPackHash": "ebc95b0e0cd971d48d03a500d8a4e95f",
+            "modPackHash": "b9bb4d4c5e89dea954592b4426bb7fcd",
             "configFolder": "config"
         }
     }
