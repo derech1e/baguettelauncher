@@ -38,8 +38,15 @@
         "b6": {
             "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2769/forge-1.12.2-14.23.5.2769-universal.jar",
             "modpack": "https://www.dropbox.com/s/e3yidawfa5iepoz/ModpackModsv5.zip?dl=1",
-            "config": "https://www.dropbox.com/s/wl8isrzusiiqtzh/ModConfigv3.zip?dl=1",
+            "config": "https://www.dropbox.com/s/56ayl9tzlj1locd/ModConfigv4.zip?dl=1",
             "modPackHash": "67a3246d81050352df8c797598abce8f",
+            "configFolder": "config"
+        },
+        "b7": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2769/forge-1.12.2-14.23.5.2769-universal.jar",
+            "modpack": "https://www.dropbox.com/s/k3620r9atup7zuq/ModpackModsv6.zip?dl=1",
+            "config": "https://www.dropbox.com/s/56ayl9tzlj1locd/ModConfigv4.zip?dl=1",
+            "modPackHash": "79a063357a6297486dee3020eb18a0f9",
             "configFolder": "config"
         }
     }
