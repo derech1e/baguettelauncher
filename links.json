@@ -11,5 +11,8 @@
       "JER":"https://www.b311.de/html/06_MC_Winter/Optional/JustEnoughResources-1.12.2-0.9.2.60.jar",
       "MTW":"https://www.b311.de/html/06_MC_Winter/Optional/MouseTweaks-2.10-mc1.12.2.jar",
       "ITW":"https://www.b311.de/html/06_MC_Winter/Optional/InventoryTweaks-1.63.jar"
+   },
+   "status":{  
+      "wartung":"true"
    }
 }
