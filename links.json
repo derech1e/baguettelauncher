@@ -1,14 +1,15 @@
 {  
    "types":{  
-      "optifine":"https://www.dropbox.com/s/obv6u4fr3ey671v/OptiFine_1.12.2_HD_U_E3.jar?dl=1",
+      "optifine":"https://www.b311.de/html/06_MC_Winter/Optional/OptiFine_1.12.2_HD_U_F4.jar",
       "option_shaderPack":"https://www.dropbox.com/s/rzxaiheip2cau4i/shaderpacks.zip?dl=1",
       "option_resourcePack":"https://www.dropbox.com/s/g7gcbrapa72lcm3/MinecraftTextures.zip?dl=1",
       "option_resourcePack_Baguette":"https://www.dropbox.com/s/oz85pufjzjy8oyl/BaguettePack.zip?dl=1",
       "versionsURL":"https://raw.githubusercontent.com/b0go5lash/baguettelauncher/master/versions/versions.json",
       "latestVersion":"https://raw.githubusercontent.com/b0go5lash/baguettelauncher/master/versions/latestVersion.txt",
-      "userConfig":"https://www.dropbox.com/s/w4pwb3qp65yj1ao/UserConfig.zip?dl=1",
-      "Config_NEI":"https://www.dropbox.com/s/iozntuivo5758sv/NEI_Config.zip?dl=1",
-      "Config_ItemScroller":"https://www.dropbox.com/s/edzeflodxy8hf8y/ItemScrollerConfig.zip?dl=1",
-      "Config_InvTweaks":"https://www.dropbox.com/s/e98ecsoz0rmia0y/InvTweaksConfig.zip?dl=1"
+      "NEI":"https://www.b311.de/html/06_MC_Winter/Optional/NotEnoughItems-1.12.2-2.4.3.245.jar",
+      "JEI":"https://www.b311.de/html/06_MC_Winter/Optional/jei_1.12.2-4.15.0.291.jar",
+      "JER":"https://www.b311.de/html/06_MC_Winter/Optional/JustEnoughResources-1.12.2-0.9.2.60.jar",
+      "MTW":"https://www.b311.de/html/06_MC_Winter/Optional/MouseTweaks-2.10-mc1.12.2.jar",
+      "ITW":"https://www.b311.de/html/06_MC_Winter/Optional/InventoryTweaks-1.63.jar"
    }
 }
