@@ -1,3 +1,3 @@
 # baguettelauncher
-Copyright 2017-2018 @DerEchte
+Copyright 2017-2019 @DerEchte
 Version Control BaguetteLauncher/Modpack
