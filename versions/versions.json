@@ -64,10 +64,10 @@
             "configFolder": "config"
         },
         "b10": {
-            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2769/forge-1.12.2-14.23.5.2769-universal.jar",
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar",
             "modpack": "https://www.b311.de/html/06_MC_Winter/Needed/winterBaguettev1.zip",
-            "config": "TODO",
-            "modPackHash": "TODO",
+            "config": "https://www.b311.de/html/06_MC_Winter/Config/config.zip",
+            "modPackHash": "2ef389493934d717e63f55121146f97a",
             "configFolder": "config"
         }
     }
