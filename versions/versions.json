@@ -62,6 +62,13 @@
             "config": "https://www.dropbox.com/s/e9qhko4xe8ijopr/ModConfigv5.zip?dl=1",
             "modPackHash": "2ead92b79f4426db57f16d028447b7d1",
             "configFolder": "config"
+        },
+        "b10": {
+            "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2769/forge-1.12.2-14.23.5.2769-universal.jar",
+            "modpack": "https://www.b311.de/html/06_MC_Winter/Needed/winterBaguettev1.zip",
+            "config": "TODO",
+            "modPackHash": "TODO",
+            "configFolder": "config"
         }
     }
 }
