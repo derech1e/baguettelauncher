@@ -7,11 +7,94 @@
     <link href="https://fonts.jimstatic.com/css?family=Raleway:300" rel="stylesheet">
     <link href="https://fonts.jimstatic.com/css?family=Roboto:300" rel="stylesheet">
 </head>
-    <script>
-        window.onload = function () {
-        var css = 'body {animation-name:test; animation-duration:4s; animation-iteration-count:infinite; } @keyframes test{ 0%{color:#ff0000} 20%{color:#00ff00} 40%{color:#ffff00} 60%{color:#0000ff} 80%{color:#00ffff} 100%{color:#ff0000}', head = document.head || document.getElementsByTagName('head')[0], style = document.createElement('style'); style.type = 'text/css'; if (style.styleSheet){ style.styleSheet.cssText = css; } else { style.appendChild(document.createTextNode(css)); } head.appendChild(style);
-        }
-    </script>
+    
+    <style>
+        @import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+h1, h2{
+  text-align:center;
+}
+
+h1{
+  color:rgba(100, 50, 255, .8);
+  font-family: 'Pacifico', cursive;
+  color:#212121;
+}
+
+.rainbow {
+  
+   /* Font options */
+  font-family: 'Pacifico', cursive;
+  text-shadow: 2px 2px 4px #000000;
+  font-size:40px;
+  
+   /* Chrome, Safari, Opera */
+  -webkit-animation: rainbow 5s infinite; 
+  
+  /* Internet Explorer */
+  -ms-animation: rainbow 5s infinite;
+  
+  /* Standar Syntax */
+  animation: rainbow 5s infinite; 
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes rainbow{
+  0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+
+/* Internet Explorer */
+@-ms-keyframes rainbow{
+   0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+
+/* Standar Syntax */
+@keyframes rainbow{
+    0%{color: orange;}	
+  10%{color: purple;}	
+	20%{color: red;}
+  30%{color: CadetBlue;}
+	40%{color: yellow;}
+  50%{color: coral;}
+	60%{color: green;}
+  70%{color: cyan;}
+  80%{color: DeepPink;}
+  90%{color: DodgerBlue;}
+	100%{color: orange;}
+}
+
+body{
+  background-color:#607D8B;
+}
+
+.container{
+  background-color:#E0F2F1;
+  padding:10px;
+  border-radius:15px;
+  box-shadow: 10px 10px 20px 0px rgba(0,0,0,0.75);
+}
+    </style>
 <body>
 <!--<meta http-equiv="refresh" content="5">-->
 <div class="textPosition fontStyle">
@@ -36,7 +119,7 @@
                 <br>
                 <br>
                 <br>
-                <h3 class="text-align-center rainbow rainbow_text_animated"><b><u>Neues Projekt:</u> #WinterBaguette Voraussichtlicher Start: 30.11</b></h3>
+                <h3 class="text-align-center rainbow"><b><u>Neues Projekt:</u> #WinterBaguette Voraussichtlicher Start: 30.11</b></h3>
                 <br>
                 <br>
                 <br>
