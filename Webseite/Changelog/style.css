@@ -10,11 +10,7 @@ body, html{
      font-family:Roboto,sans-serif;
      color: #fff 
 }
- .fontStyle h1,.fontStyle h2{
-     font-weight:300;
-     font-family:Raleway,sans-serif;
-     color: #fff 
-}
+
  .textPosition{
      -webkit-font-smoothing:antialiased;
      line-height:1.5 
