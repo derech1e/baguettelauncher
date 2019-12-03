@@ -13,9 +13,10 @@
       "ITW":"https://www.b311.de/html/06_MC_Winter/Optional/InventoryTweaks-1.63.jar",
       "JMP":"https://www.b311.de/html/06_MC_Winter/Optional/journeymap-1.12.2-5.5.5.jar",
       "ZZ_Pack":"https://www.b311.de/html/06_MC_Winter/Resourcepack/ZigZag_1.12_2_25_18.zip",
-      "Launcher":"https://www.b311.de/html/BaguetteLauncher/BaguetteLauncher-3.2-Windows.exe"
+      "Launcher":"https://www.b311.de/html/BaguetteLauncher/BaguetteLauncher-3.3-Windows.exe"
    },
    "status":{  
-      "wartung":"true"
+      "wartung":"true",
+      "BS":"false"
    }
 }
