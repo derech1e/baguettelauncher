@@ -17,7 +17,7 @@
       "Launcher":"https://www.b311.de/html/BaguetteLauncher/BaguetteLauncher-3.5-Windows.exe"
    },
    "status":{  
-      "wartung":"true",
+      "wartung":"false",
       "BS":"false"
    }
 }
