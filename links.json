@@ -7,6 +7,7 @@
       "versionsURL":"https://raw.githubusercontent.com/b0go5lash/baguettelauncher/master/versions/versions.json",
       "latestVersion":"https://raw.githubusercontent.com/b0go5lash/baguettelauncher/master/versions/latestVersion.txt",
       "NEI":["https://www.b311.de/html/06_MC_Winter/Optional/NotEnoughItems-1.12.2-2.4.3.245.jar", "https://www.b311.de/html/06_MC_Winter/Optional/jei_1.12.2-4.15.0.291.jar"],
+      "WAW":["https://www.b311.de/html/06_MC_Winter/Optional/Hwyla-1.8.26-B41_1.12.2.jar","https://www.b311.de/html/06_MC_Winter/Optional/Wawla-1.12.2-2.5.273.jar"]
       "JEI":"https://www.b311.de/html/06_MC_Winter/Optional/jei_1.12.2-4.15.0.291.jar",
       "JER":"https://www.b311.de/html/06_MC_Winter/Optional/JustEnoughResources-1.12.2-0.9.2.60.jar",
       "MTW":"https://www.b311.de/html/06_MC_Winter/Optional/MouseTweaks-2.10-mc1.12.2.jar",
