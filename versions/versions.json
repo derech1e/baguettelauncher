@@ -100,8 +100,8 @@
         },
         "b15": {
             "forge": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2847/forge-1.12.2-14.23.5.2847-universal.jar",
-            "modpack": "http://b311.de/html/06_MC_Winter/Needed/winterBaguettev6.zip",
-            "config": "http://b311.de/html/06_MC_Winter/Config/config.zip",
+            "modpack": "http://b311.de/06_MC_Winter/Needed/winterBaguettev6.zip",
+            "config": "http://b311.de/06_MC_Winter/Config/config.zip",
             "modPackHash": "ab82b2285696e5e03b79be2b161e1aa8",
             "configFolder": "config"
         }
