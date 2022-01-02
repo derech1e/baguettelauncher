@@ -17,7 +17,7 @@
       "Launcher":"https://github.com/derech1e/baguettelauncher/releases/download/2.55/BaguetteLauncher-3.55-Windows.exe"
    },
    "status":{  
-      "wartung":"true",
+      "wartung":"false",
       "BS":"false",
       "A":"http://b311.de/BaguetteLauncher/BaguetteLauncher-3.55-Windows.exe"
    }
